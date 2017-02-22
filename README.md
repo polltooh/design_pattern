@@ -1,2 +1,2 @@
 # Design Pattern
-C++ code for different design patterns
+C++ code for different design patterns practice
